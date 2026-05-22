@@ -125,13 +125,13 @@ export default function Login() {
         </div>
 
         {/* Info de demo */}
-        <div className="mt-6 p-4 bg-teal-50 border border-teal-100 rounded-lg">
+        {/* <div className="mt-6 p-4 bg-teal-50 border border-teal-100 rounded-lg">
           <p className="text-xs text-teal-800 font-medium mb-2">Credenciales de prueba:</p>
           <div className="space-y-1 text-xs text-teal-700">
             <p><span className="font-semibold">Admin:</span> admin@danse.com / admin123</p>
             <p><span className="font-semibold">Profesor:</span> laura@danse.com / profesor123</p>
           </div>
-        </div>
+        </div>*/}
       </div>
     </div>
   )
